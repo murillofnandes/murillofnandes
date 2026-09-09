@@ -1,5 +1,5 @@
 Olá! Eu sou Murillo Fernandes 👋
-<p align="center"> <strong>🎓 Computer Science Student | 🔧 Systems & Security Enthusiast</strong><br> <em>Apaixonado por Linux, Redes e Segurança de Sistemas</em> </p>
+<p align="center"> <strong>🎓 Computer Science Student | 🔧 Systems & Security Enthusiast</strong><br> <em>Entusiasta por Linux, Redes e Segurança de Sistemas</em> </p>
 🚀 Sobre Mim
 
 Sou estudante de Ciência da Computação com foco em sistemas operacionais, redes de computadores e segurança. Tenho interesse profundo em entender como as coisas funcionam "por baixo do capô" e estou sempre explorando novos conceitos em tecnologia.
