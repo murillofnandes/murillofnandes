@@ -48,9 +48,3 @@ MySQL / MariaDB
 </p>
 
 
-🎯 Atualmente Aprendendo
-🐧 Linux & Administração de Sistemas - Configuração, gerenciamento de usuários, permissões
-🌐 Redes de Computadores - Protocolos, TCP/IP, DNS, HTTP/HTTPS
-🖥️ Sistemas Operacionais - Arquitetura, processos, memória, escalonamento
-🔐 Cybersegurança - Criptografia, vulnerabilidades, testes de penetração
-⚙️ Programação de Baixo Nível - Assembly, manipulação de memória, otimizações
