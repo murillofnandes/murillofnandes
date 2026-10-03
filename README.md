@@ -1,5 +1,6 @@
-# Murillo Fernandes
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=70&repeat=false&lines=Murillo+Fernandes" alt="Murillo Fernandes">
+</p>
 **Computer Science Student | Software Development**
 
 ## About
