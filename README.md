@@ -1,50 +1,19 @@
-Olá! Eu sou Murillo Fernandes 👋
-<p align="center"> <strong>🎓 Computer Science Student | 🔧 Systems & Security Enthusiast</strong><br> <em>Entusiasta por Linux, Redes e Segurança de Sistemas</em> </p>
-🚀 Sobre Mim
+# Murillo Fernandes
 
-Sou estudante de Ciência da Computação com foco em sistemas operacionais, redes de computadores e segurança. Tenho interesse profundo em entender como as coisas funcionam "por baixo do capô" e estou sempre explorando novos conceitos em tecnologia.
+**Computer Science Student | Software Development**
 
-🔍 Áreas de Interesse:
+## About
 
-🐧 Linux & Administração de Sistemas
-🌐 Redes de Computadores
-🖥️ Sistemas Operacionais
-🔐 Cybersegurança
-⚙️ Programação de Baixo Nível (C, Assembly)
+Estudante de Ciência da Computação, interessado em algoritmos, estruturas de dados, programação de sistemas e desenvolvimento de software.
 
-💡 Objetivo: Contribuir para projetos open-source e desenvolver soluções robustas em segurança e infraestrutura.
+## Technologies
 
-💻 Tech Stack
-Linguagens de Programação
-<p> <img src="https://skillicons.dev/icons?i=c,php,python" alt="Languages" /> </p>
-
-Proficiência:
-
-C - Programação de sistemas, algoritmos
-Python - Scripts, automação, análise
-PHP - Desenvolvimento web
-Sistemas & Ferramentas
-<p> <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim" alt="Tools" /> </p>
-
-Stack de Desenvolvimento:
-
-Linux (Ubuntu, Debian, Fedora)
-Git & GitHub
-VS Code
-Vim / Neovim
-Banco de Dados
-<p> <img src="https://skillicons.dev/icons?i=mysql" alt="Database" /> </p>
-MySQL / MariaDB
-
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murillofnandes&theme=github_dark" />
+<p>
+  <img src="https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murillofnandes&theme=github_dark" />
-</p>
+## Focus
 
-
+Algorithms · Data Structures · Systems Programming · Software Development
